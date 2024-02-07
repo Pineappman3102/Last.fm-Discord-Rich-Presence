@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/discord/946515105443610654?color=302f3d&style=for-the-badge" alt="Badge">
 </p>
 
+Just doin some personal changes
+
 An elegant, efficient, easy-to-setup and arguably the best Last.fm discord rich presence! Written in Electron with daisyUI.
 
 Supports GIF album covers and provides information such as `Track name`, `Track Album`, `Track Artist`, `Last Played`, `Your Scrobbles` and much more!
